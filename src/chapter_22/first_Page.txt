@@ -1,3 +1,5 @@
 I am practicing on my own
 
 This is the second day of Git
+
+I am adding even more changes to my text file
