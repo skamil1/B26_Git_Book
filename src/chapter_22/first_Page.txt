@@ -1,0 +1,3 @@
+I am practicing on my own
+
+This is the second day of Git
