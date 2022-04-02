@@ -1,0 +1,4 @@
+.idea // all folders that you want to be ignored
+out
+*,xml
+*.iml
